@@ -10,8 +10,7 @@
   <img src=GOL.png width="700"><br>
   <b>
     Project first began on September 25, 2021.<br>
-    Project finished on September 28, 2021.<br>
-    24h Game Developement challenge I set myself to finish!
+    Project finished on September 28, 2021.
   </b>
 </p>
 
