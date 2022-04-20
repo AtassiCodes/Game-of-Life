@@ -40,7 +40,12 @@
 
 ## Description
 
-**Jummpy is simple staright forward game, the aim is to try to stay alive for aslong as possible why trying to reach as high as you can!**
+**Have some fun and create some awesome desgins using the Game of Life! I always wonder what designs would turn out to be!**<br>
+Here are some of its rules:
+Any live cell with two or three live neighbours survives.
+Any dead cell with three live neighbours becomes a live cell.
+All other live cells die in the next generation. Similarly, all other dead cells stay dead.
+
 
 ***
 
