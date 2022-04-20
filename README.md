@@ -37,3 +37,12 @@
 <!-------->
 ***
 <!--- End of my template --->
+
+## Description
+
+**Jummpy is simple staright forward game, the aim is to try to stay alive for aslong as possible why trying to reach as high as you can!**
+
+***
+
+### Here are some screenshots for you to enjoy.
+<img src=screenshot.png width=700>
