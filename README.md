@@ -50,7 +50,7 @@ Here are some of its rules:
 
 ***
 
-### Here are some screenshots for you to enjoy.
+### Here is a screenshot of "GAME".
 <p align="center">
   <img src=Screenshot.png width=1000>
 </p>
