@@ -45,4 +45,6 @@
 ***
 
 ### Here are some screenshots for you to enjoy.
-<img src=screenshot.png width=700>
+<p align="center">
+  <img src=Screenshot.png width=1000>
+</p>
