@@ -1,2 +1,2 @@
-# Game-of-Life
+# Game of Life
 Conway's Game of Life.
