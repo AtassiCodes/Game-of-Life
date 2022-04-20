@@ -41,10 +41,11 @@
 ## Description
 
 **Have some fun and create some awesome desgins using the Game of Life! I always wonder what designs would turn out to be!**<br>
+<br>
 Here are some of its rules:
-Any live cell with two or three live neighbours survives.
-Any dead cell with three live neighbours becomes a live cell.
-All other live cells die in the next generation. Similarly, all other dead cells stay dead.
+- Any live cell with two or three live neighbours survives.
+- Any dead cell with three live neighbours becomes a live cell.
+- All other live cells die in the next generation. Similarly, all other dead cells stay dead.
 
 
 ***
