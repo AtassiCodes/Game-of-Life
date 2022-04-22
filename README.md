@@ -50,7 +50,7 @@ Here are some of its rules:
 
 ***
 
-### Here is a screenshot of "GAME".
+### Here is a screenshot of the word "GAME" being played.
 <p align="center">
   <img src=Screenshot.png width=1000>
 </p>
